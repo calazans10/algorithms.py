@@ -1,0 +1,4 @@
+Programar é divertido
+Quando o trabalho está pronto
+se você quer tornar seu trabalho divertido:
+    use Python!
